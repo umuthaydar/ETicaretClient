@@ -1,0 +1,6 @@
+table {
+    width: 100%;
+  }
+.mdc-data-table__cell, .mdc-data-table__header-cell {
+  padding: 0 2px 0 2px;
+}
